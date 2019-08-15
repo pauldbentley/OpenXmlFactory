@@ -8,6 +8,11 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageTags>openxml</PackageTags>
     <CodeAnalysisRuleSet>OpenXmlFactory.ruleset</CodeAnalysisRuleSet>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Description>Reconstructs an OpenXml element by reflection</Description>
+    <Copyright>Luc Bos</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
